@@ -13,7 +13,7 @@ body{
     color: white;
 }
 
-#container{
+#form-container{
     max-width: 1240px;
     /* height: 1036px; */
     background-color: rgba(0, 0, 0, 0.3);
@@ -21,7 +21,7 @@ body{
     margin-top: 30px;
 }
 
-#title{
+h1{
     font-size: 3.1 rem;
     color: white;
     font-family: 'Bowlby One SC', cursive;
@@ -32,12 +32,12 @@ span{
     color: red;
 }
 
-#description{
+h3{
     font-family: 'Sorts Mill Goudy', serif;
     font-size: 1.5rem;
 }
 
-#header{
+header{
     text-align: center;
 }
 
@@ -45,7 +45,7 @@ textarea{
     resize: none;
 }
 
-#survey-form-container{
+#form-container{
     width: 500px;
     background-color: rgba(0, 0, 0, 0.8);
     margin: auto;
